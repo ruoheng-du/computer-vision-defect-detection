@@ -1,0 +1,10 @@
+train: /content/drive/MyDrive/YOLOv5_cylinder/20220724/train/images
+val: /content/drive/MyDrive/YOLOv5_cylinder/20220724/valid/images
+
+nc: 4
+names: ['shrinkage', 'crackle', 'sandhole', 'dirty']
+
+# 0 for shrinkage
+# 1 for crackle
+# 2 for sandhole
+# 3 for dirty
